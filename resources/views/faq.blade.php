@@ -16,6 +16,9 @@
 
 <body>
     <div>FAQ</div>
+    <ul>
+        <li><a href="/">Torna alla Home</a></li>
+    </ul>
 </body>
 
 </html>
