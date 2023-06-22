@@ -17,7 +17,26 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::view('/contacts', 'contacts')->name('contacts');
-Route::view('/gallery', 'gallery')->name('gallery');
-Route::view('/faq', 'faq')->name('faq');
-Route::view('/rules', 'rules')->name('rules');
+Route::get('/contacts', function () {
+    return view('contacts');
+});
+
+// Route::view('/contacts', 'contacts')->name('contacts');
+
+Route::get('/gallery', function () {
+    return view('gallery');
+});
+
+// Route::view('/gallery', 'gallery')->name('gallery');
+
+Route::get('/faq', function () {
+    return view('faq');
+});
+
+// Route::view('/faq', 'faq')->name('faq');
+
+Route::get('/rules', function () {
+    return view('rules');
+});
+
+// Route::view('/rules', 'rules')->name('rules');

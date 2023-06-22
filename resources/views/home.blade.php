@@ -18,10 +18,10 @@
     <header>
         <ul>
             Lista Pagine
-            <li><a href="{{ route('contacts') }}">Vai alla pagina "Contatti"</a></li>
-            <li><a href="{{ route('gallery') }}">Vai alla pagina "Galleria"</a></li>
-            <li><a href="{{ route('faq') }}">Vai alla pagina "FAQ"</a></li>
-            <li><a href="{{ route('rules') }}">Vai alla pagina "Regolamento"</a></li>
+            <li><a href="/contacts">Vai alla pagina "Contatti"</a></li>
+            <li><a href="/gallery">Vai alla pagina "Galleria"</a></li>
+            <li><a href="/faq">Vai alla pagina "FAQ"</a></li>
+            <li><a href="/rules">Vai alla pagina "Regolamento"</a></li>
         </ul>
     </header>
     <main>
