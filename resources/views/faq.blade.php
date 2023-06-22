@@ -15,10 +15,11 @@
 </head>
 
 <body>
-    <div>FAQ</div>
-    <ul>
-        <li><a href="/">Torna alla Home</a></li>
-    </ul>
+    <header>
+        <h1>FAQ</h1>
+        <ul>
+            <li><a href="/">Torna alla Home</a></li>
+        </ul>
+    </header>
 </body>
-
 </html>

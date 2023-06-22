@@ -15,10 +15,11 @@
 </head>
 
 <body>
-    <div>REGOLAMENTO</div>
-    <ul>
-        <li><a href="/">Torna alla Home</a></li>
-    </ul>
+    <header>
+        <h1>REGOLAMENTO</h1>
+        <ul>
+            <li><a href="/">Torna alla Home</a></li>
+        </ul>
+    </header>
 </body>
-
 </html>

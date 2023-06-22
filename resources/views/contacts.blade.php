@@ -15,15 +15,11 @@
 </head>
 
 <body>
-    <ul>
-        Lista Contatti
-        <li><a href="/">Torna alla Home</a></li>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
-        <li>4</li>
-        <li>5</li>
-    </ul>
+    <header>
+        <h1>CONTATTI</h1>
+        <ul>
+            <li><a href="/">Torna alla Home</a></li>
+        </ul>
+    </header>
 </body>
-
 </html>

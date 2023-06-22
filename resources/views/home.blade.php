@@ -16,6 +16,7 @@
 
 <body>
     <header>
+        <h1>Hello World</h1>
         <ul>
             Lista Pagine
             <li><a href="/contacts">Vai alla pagina "Contatti"</a></li>
@@ -24,9 +25,5 @@
             <li><a href="/rules">Vai alla pagina "Regolamento"</a></li>
         </ul>
     </header>
-    <main>
-        <h1>Hello World</h1>
-    </main>
 </body>
-
 </html>
